@@ -1,4 +1,4 @@
-// gcc -o hello -Wall hello.c `sdl2-config --cflags --libs`
+// gcc -o hello -Wall SDL-hello.c `sdl2-config --cflags --libs`
 
 #include <stdio.h>
 #include <SDL2/SDL.h>
